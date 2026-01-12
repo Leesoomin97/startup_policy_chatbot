@@ -1,0 +1,40 @@
+아래 문서는 정부의 창업·프리랜서 지원 정책 안내 문서이다.
+문서는 Markdown 형식으로 구조화되어 있다.
+
+이 문서에서 정보를 추출하여,
+아래 JSON 스키마를 정확히 채워라.
+
+[추출 규칙]
+- JSON만 출력하고 설명은 하지 마라
+- 없는 정보는 null로 채워라
+- 날짜, 시기 표현은 원문 그대로 유지한다 (전처리하지 않는다)
+- 대부분의 필드는 문자열(string)로 출력한다
+- support_budget은 숫자(float)만 추출하고 단위(억원 등)는 제거한다
+- required_documents, contact_number는 반드시 배열(array)로 출력한다
+  - 항목이 하나여도 배열로 감싼다
+- 중앙부처 사업인 경우, 지역 정보가 명시되지 않아도 region은 "전국"으로 설정한다
+
+
+[JSON SCHEMA]
+{{
+  "program_id": number,
+  "region": string,
+  "category": string,
+  "program_name": string,
+  "program_overview": string,
+  "support_description": string,
+  "support_budget": number,
+  "support_scale": string,
+  "supervising_ministry": string,
+  "apply_target": string,
+  "announcement_date": string,
+  "biz_process": string,
+  "application_method": string,
+  "required_documents": array,
+  "contact_agency": string,
+  "contact_number": array,
+  "collected_date": string
+}}
+
+[MARKDOWN DOCUMENT]
+{markdown_text}

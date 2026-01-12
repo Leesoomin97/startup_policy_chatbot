@@ -1,0 +1,29 @@
+{
+  "program_id": 1,
+  "region": "전국",
+  "category": "창업 지원",
+  "program_name": "예비창업패키지",
+  "program_overview": "혁신적인 기술창업 아이디어를 보유한 예비창업자의 창업 사업화 준비단계를 지원하여 성공적인 창업시장 안착 유도",
+  "support_description": "사업화 자금, 창업프로그램 등",
+  "support_budget": 491.25,
+  "support_scale": "750명 내외",
+  "supervising_ministry": "중소벤처기업부",
+  "apply_target": "예비창업자 (공고일 기준 사업자(개인, 법인) 등록 및 법인 설립등기를 하지 않은 자)",
+  "announcement_date": "'25. 12월",
+  "biz_process": "'26. 1~2월 예정, '26. 2~3월 예정, '26. 3월~ 예정",
+  "application_method": "홈페이지를 통한 온라인 신청ㆍ접수",
+  "required_documents": [
+    "사업계획서",
+    "증빙서류 등"
+  ],
+  "contact_agency": "중소벤처기업부",
+  "contact_number": [
+    "044-204-7681",
+    "044-204-7685",
+    "044-410-1803~4",
+    "044-410-1806~7",
+    "044-410-1809",
+    "044-410-1840"
+  ],
+  "collected_date": "2026-01-08"
+}
