@@ -1,0 +1,120 @@
+[
+  {
+    "program_id": 377,
+    "conditions": [
+      {
+        "name": "업력 7년 이내",
+        "type_category": "core_requirement",
+        "type": "business_year",
+        "value": "7년 이내",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "스타트업 또는 예비 창업기업",
+        "type_category": "core_requirement",
+        "type": "business_status",
+        "value": "스타트업 또는 예비 창업기업",
+        "status": "UNKNOWN",
+        "reason": ""
+      }
+    ],
+    "__parse_success": true
+  },
+  {
+    "program_id": 396,
+    "conditions": [
+      {
+        "name": "연령 18세 이상 40세 미만",
+        "type_category": "core_requirement",
+        "type": "age",
+        "value": "18세 이상 40세 미만",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "산업 농산업분야",
+        "type_category": "core_requirement",
+        "type": "industry",
+        "value": "농산업",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "창업 희망자 또는 창업자",
+        "type_category": "core_requirement",
+        "type": "business_status",
+        "value": "창업 희망자 또는 창업자",
+        "status": "UNKNOWN",
+        "reason": ""
+      }
+    ],
+    "__parse_success": true
+  },
+  {
+    "program_id": 130,
+    "conditions": [
+      {
+        "name": "예비창업자 여부",
+        "type_category": "core_requirement",
+        "type": "business_status",
+        "value": "예비창업자",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "업력 3년 이내",
+        "type_category": "core_requirement",
+        "type": "business_year",
+        "value": "3년 이내",
+        "status": "UNKNOWN",
+        "reason": ""
+      }
+    ],
+    "__parse_success": true
+  },
+  {
+    "program_id": 193,
+    "conditions": [
+      {
+        "name": "김해 소재",
+        "type_category": "location_requirement",
+        "type": "location_city",
+        "value": "김해",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "혁신 기술·아이디어 보유",
+        "type_category": "eligibility_attribute",
+        "type": "innovation_technology_or_idea_possession",
+        "value": "우수 혁신 기술·아이디어 보유",
+        "status": "UNKNOWN",
+        "reason": ""
+      },
+      {
+        "name": "스타트업",
+        "type_category": "core_requirement",
+        "type": "business_status",
+        "value": "스타트업",
+        "status": "UNKNOWN",
+        "reason": ""
+      }
+    ],
+    "__parse_success": true
+  },
+  {
+    "program_id": 434,
+    "conditions": [
+      {
+        "name": "예비창업자 여부",
+        "type_category": "core_requirement",
+        "type": "business_status",
+        "value": "예비창업자",
+        "status": "UNKNOWN",
+        "reason": ""
+      }
+    ],
+    "__parse_success": true
+  }
+]
